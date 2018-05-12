@@ -1,0 +1,42 @@
+_repo: The-Salem-witchcraft-The-planchette-mystery-and-Modern-spiritualismwith-Dr.-Doddridge-s-dream_42318
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42318-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Wells, Samuel R. (Samuel Roberts)
+    aliases:
+    - Wells, Samuel Roberts
+    - Wells, S. R. (Samuel Roberts)
+    birthdate: 1820
+    deathdate: 1875
+    gutenberg_agent_id: '32113'
+    url: http://www.gutenberg.org/2009/agents/32113
+  - agent_name: Stowe, Harriet Beecher
+    aliases:
+    - Crowfield, Christopher
+    - Stowe, Harriet Elizabeth Beecher
+    - Stowe, H. B. (Harriet Beecher)
+    birthdate: 1811
+    deathdate: 1896
+    gutenberg_agent_id: '115'
+    url: http://www.gutenberg.org/2009/agents/115
+    wikipedia: http://en.wikipedia.org/wiki/Harriet_Beecher_Stowe
+description: ''
+gutenberg_issued: '2013-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42318'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Witchcraft -- Massachusetts -- Salem'
+- !lcsh 'Spiritualism'
+- !lcsh 'Upham, Charles Wentworth, 1802-1875. Salem witchcraft'
+- !lcc 'BF'
+title: "The Salem Witchcraft, the Planchette Mystery, and Modern Spiritualism\r\n\
+  With Dr. Doddridge's Dream"
+url: http://www.gutenberg.org/ebooks/42318
